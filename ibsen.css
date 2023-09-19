@@ -9,6 +9,12 @@
     color: black;
     background: #c8ebf4;
 }
+.name{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    color: black;
+    background: #c8ebf4;
+}
 .direction:hover{
     background-color:#c8ebf4;
     color:black;
