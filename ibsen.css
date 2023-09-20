@@ -60,4 +60,24 @@
     text-shadow: 2px 2px 4px yellow; 
     border: 1px solid #FF5733; 
 }
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+.bottom-navbar {
+    text-align: center;
+}
+
+.bottom-navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+/* Style icons within links */
+.bottom-navbar i{
+    margin-right: 5px;
+}
 
