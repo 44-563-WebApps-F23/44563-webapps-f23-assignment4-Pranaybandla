@@ -22,8 +22,18 @@
 .tesman {
     color:red;
 }
+.tesman:hover{
+    cursor: pointer; 
+    text-shadow: 2px 2px 4px #72ec08; 
+    border: 1px dashed #e60909; 
+}
 .berta {
-    color:blue;
+    color:brown;
+}
+.berta:hover{
+    cursor: pointer; 
+    text-shadow: 2px 2px 4px #0c3fe8; 
+    border: 1px dashed #FF5733; 
 }
 .table {
     border-collapse: collapse;
@@ -43,5 +53,11 @@
 }
 .table tr:nth-child(even) {
     background-color: bisque;
+}
+
+.table td:hover {
+    cursor: pointer; 
+    text-shadow: 2px 2px 4px yellow; 
+    border: 1px solid #FF5733; 
 }
 
