@@ -54,6 +54,9 @@
 .table tr:nth-child(even) {
     background-color: bisque;
 }
+.table tr:nth-child(odd) {
+    background-color: rgb(102, 242, 14);
+}
 
 .table td:hover {
     cursor: pointer; 
