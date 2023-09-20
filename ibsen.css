@@ -16,7 +16,7 @@
     background: #c8ebf4;
 }
 .direction:hover{
-    background-color:#c8ebf4;
+    background-color:#21dc0c;
     color:black;
 }
 .tesman {
@@ -24,7 +24,7 @@
 }
 .tesman:hover{
     cursor: pointer; 
-    text-shadow: 2px 2px 4px #72ec08; 
+    text-shadow: 2px 2px 4px #c6ee27; 
     border: 1px dashed #e60909; 
 }
 .berta {
@@ -32,7 +32,7 @@
 }
 .berta:hover{
     cursor: pointer; 
-    text-shadow: 2px 2px 4px #0c3fe8; 
+    text-shadow: 2px 2px 4px #73e129; 
     border: 1px dashed #FF5733; 
 }
 .table {
@@ -69,17 +69,17 @@ footer {
     padding: 10px 0;
 }
 
-.bottom-navbar {
+.navbar {
     text-align: center;
 }
 
-.bottom-navbar a {
+.navbar a {
     color: white;
     text-decoration: none;
     margin: 0 20px;
 }
 
-/* Style icons within links */
+
 .bottom-navbar i{
     margin-right: 5px;
 }
