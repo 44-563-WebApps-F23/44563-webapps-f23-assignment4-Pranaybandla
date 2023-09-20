@@ -25,3 +25,23 @@
 .berta {
     color:blue;
 }
+.table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-top: 20px;
+    border: 5px;
+}
+.table th, .table tr {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+.table td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+.table tr:nth-child(even) {
+    background-color: bisque;
+}
+
