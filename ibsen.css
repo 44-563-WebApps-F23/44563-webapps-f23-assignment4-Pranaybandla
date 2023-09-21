@@ -57,6 +57,9 @@
 .table tr:nth-child(odd) {
     background-color: rgb(102, 242, 14);
 }
+.table th {
+    background-color: aqua;
+}
 
 .table td:hover {
     cursor: pointer; 
